@@ -4,6 +4,7 @@ The Law
 Current Objectives
 
 - [] Real person authentication 
+- [] Post and pin messages
 - [] Giving and take roles and permissions
 - [] Ban and kick members 
 - [] Delete and/or store messages
